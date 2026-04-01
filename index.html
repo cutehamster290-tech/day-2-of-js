@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Portfolio</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div class="mainMenu">
+            <button
+             class="menuButton nof"
+             onmouseover="animation(this, 1.05);" 
+             onmouseout="animation(this, .9);" 
+             onclick="showBar(); changeArrow(this);">></button>
+
+            <button
+             class="menuButton"
+             onmouseover="animation(this, 1.05);" 
+             onmouseout="animation(this, .9);" hidden>Home</button>
+             
+            <button
+             class="menuButton"
+             onmouseover="animation(this, 1.05);" 
+             onmouseout="animation(this, .9);" hidden>Projects Done</button>
+        </div>
+
+        <script src="js/client.js"></script>
+    </body>
+</html>

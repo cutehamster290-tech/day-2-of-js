@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+}
+
+.mainMenu {
+  border: none;
+  background-color: rgb(61, 207, 255);
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  align-items:flex-start;
+  height: 60px;
+}
+
+.menuButton {
+    background-color: rgb(155, 230, 255);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    border: rgb(255, 255, 255);
+    border-width: 2px;
+    width: 100px;
+    margin-right: 25px;
+    height: 100%;
+    font-size: 100%;
+    cursor: pointer;
+}
+
+.click-effect {
+    border-style: solid;
+    border-color: white;
+}
+
+.nof {
+    background-color: red;
+    width: 50px;
+}
