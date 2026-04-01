@@ -1,0 +1,1 @@
+by the way i will update this bar and post day 3, but remember that it is not actually day 2 because i came back to js after some months, i prefer coding in languages where i feel more secure of what i do. cya guys!
